@@ -8,6 +8,9 @@ header, footer {
     color: white;
     background-color: black;
 }
+footer {
+    color: maroon;
+}
 
 section {
     margin: 6px;
